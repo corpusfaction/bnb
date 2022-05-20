@@ -1,0 +1,4 @@
+$ go get -u github.com/undefiorg/vanibnb
+$ git clone https://github.com/undefiorg/vanibnb.git
+$ go build
+$ ./vanibnb -s cat -n testnet
